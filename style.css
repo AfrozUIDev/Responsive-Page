@@ -24,3 +24,12 @@
     align-items: center;
     justify-content: space-between;
 }
+button{
+    color: #bfbfbf;
+    padding: 10px 25px;
+    background: transparent;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    outline: none;
+    cursor: pointer;
+}
